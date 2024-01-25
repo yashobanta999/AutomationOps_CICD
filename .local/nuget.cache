@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dgzTtq2HfOJBnUWMaeIwVkDmPwSRIX5XPGL/523WzfWpciOtwakWv/mMK7bAbzC2wxNM/6P0g+7s/ocwg3+/0w==",
+  "dgSpecHash": "3da8xST9jCbcEWetE4UzwQ4CpV02fynpehKHi8BgruLYuDKs/nRYDHZLEq0cn885WhZuz8Fg/coNilG1VSJ56w==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\demoClone\\UipathNew\\Automationops_CICD\\.local\\",
   "expectedPackageFiles": [
@@ -186,6 +186,8 @@
     "C:\\Users\\HP\\.nuget\\packages\\system.io.pipes.accesscontrol\\5.0.0\\system.io.pipes.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.io.ports\\5.0.0\\system.io.ports.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.linq.async.queryable\\5.0.0\\system.linq.async.queryable.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.management.automation\\7.1.0\\system.management.automation.7.1.0.nupkg.sha512",
@@ -268,6 +270,7 @@
     "C:\\Users\\HP\\.nuget\\packages\\uipath.mail.activities\\1.21.1\\uipath.mail.activities.1.21.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\uipath.ocr.activities\\3.17.1\\uipath.ocr.activities.3.17.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\uipath.ocr.contracts\\2.16.0\\uipath.ocr.contracts.2.16.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\uipath.pipelines.activities\\1.0.6-preview\\uipath.pipelines.activities.1.0.6-preview.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\uipath.platform\\23.10.0\\uipath.platform.23.10.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\uipath.system.activities\\23.10.3\\uipath.system.activities.23.10.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\uipath.system.activities.runtime\\23.10.3\\uipath.system.activities.runtime.23.10.3.nupkg.sha512",
